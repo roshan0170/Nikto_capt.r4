@@ -8,7 +8,7 @@ Nikto web server scanner
 Run as a Docker container:
 
 ~~~bash
-git clone https://github.com/sullo/nikto.git
+git clone https://github.com/roshan0170/Nikto_capt.r4.git
 cd nikto
 docker build -t sullo/nikto .
 # Call it without arguments to display the full help
